@@ -1,2 +1,2 @@
-# QuizzDePrograma-ao
+# QuizzDeProgramacao
 Material de Estudo - Quizz
